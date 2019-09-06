@@ -1,4 +1,4 @@
-package com.durid.petclinictutorial;
+package petclinictutorial;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
